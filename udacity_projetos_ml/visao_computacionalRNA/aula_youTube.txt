@@ -1,0 +1,13 @@
+base de dados:
+https://www.kaggle.com/c/dogs-vs-cats/data
+
+parte1:
+https://www.youtube.com/watch?time_continue=8&v=MTtGP0Bk6ME
+
+parte2:
+https://www.youtube.com/watch?v=Ovig5pFHmm8
+
+parte3:
+https://www.youtube.com/watch?v=6vxpo2HNo3c
+
+

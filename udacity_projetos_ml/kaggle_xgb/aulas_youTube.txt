@@ -1,0 +1,14 @@
+parte1:
+https://www.youtube.com/watch?v=5RB7sVI5lro
+
+parte2:
+https://www.youtube.com/watch?time_continue=11&v=dt7Y9-74tTg
+
+parte3:
+https://www.youtube.com/watch?v=2LEepTgX_BM
+
+parte4:
+https://www.youtube.com/watch?v=kQeLrv3cYdY
+
+link competição:
+https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/data
